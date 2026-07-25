@@ -5,6 +5,6 @@ I utilized a Cmedia CM108B audio IC and a MAX97720A Amplifier IC. The CM108B all
 
 The MAX97220A is set with a gain of 3.52dB and an input impedance of 10k. The output of the MAX IC is wired directly onto the 3.5mm.
 # PCB 3D KiCAD Renders
-1. ![image](USB-2-3.5mm/KiCAD_Files/plots/pcb_USB23.5mm.png)
+1. ![image](KiCAD_Files/plots/pcb_USB23.5mm.png)
 
-2. ![image](USB-2-3.5mm/KiCAD_Files/plots/pcb_back_USB23.5mm.png)
+2. ![image](KiCAD_Files/plots/pcb_back_USB23.5mm.png)
