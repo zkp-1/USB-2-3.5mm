@@ -1,0 +1,13 @@
+### Missing 3D models - created on 2026-07-25 14:08
+### Printed by checking_3D_models plugin
+Board file: F:/Personal Projects/USB23.5mm/USB23.5mm.kicad_pcb
+3D missing models written to:
+F:\Personal Projects\USB23.5mm\USB23.5mm_missing3Dmodels.txt
+-------
+('J2', 'E:\\KiCad\\10.0\\share\\kicad\\3dmodels\\Connector_Audio.3dshapes\\Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal.step')
+('F1', 'E:\\KiCad\\10.0\\share\\kicad\\3dmodels\\Fuse.3dshapes\\Fuse_2920_7451Metric.step')
+('U2', 'E:\\KiCad\\10.0\\share\\kicad\\3dmodels\\Package_DFN_QFN.3dshapes\\QFN-16-1EP_3x3mm_P0.5mm_EP1.45x1.45mm.step')
+('J1', 'E:\\KiCad\\10.0\\share\\kicad\\3dmodels\\Connector_USB.3dshapes\\USB_C_Receptacle_XKB_U262-16XN-4BVC11.step')
+-------
+NUM of 3D missing models:4
+checked extensions ['.stp', '.step', '.stpZ']
